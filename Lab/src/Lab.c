@@ -8,8 +8,7 @@
  ============================================================================
  */
 
-#include <stdio.h>
-#include <stdlib.h>
+#include "Lab.h"
 
 int main(void) {
 
